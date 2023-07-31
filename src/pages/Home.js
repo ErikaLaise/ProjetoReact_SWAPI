@@ -55,7 +55,7 @@ function Home() {
     
     
     <footer>
-        <p>Todos os dados foram obtidos do <a className="link" href="https://swapi.dev/api/planets">SWAPI</a></p>
+        <p>Todos os dados foram obtidos de <a className="link" href="https://swapi.dev/api/planets">SWAPI</a></p>
 
         <p>Desenvolvido por <a className= "link" href="https://github.com/ErikaLaise/"> ® Érika Laíse - 2023</a></p>
       </footer></>
