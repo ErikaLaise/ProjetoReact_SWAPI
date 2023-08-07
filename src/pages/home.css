@@ -3,8 +3,9 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'League Spartan', 'sans-serif';
-  background: rgb(31, 28, 28);
-}
+  /* background: rgb(31, 28, 28); */
+
+  }
 
 body {
   display: flex;
@@ -16,6 +17,7 @@ body {
   padding: 2rem;
   font-family: 'Heebo', 'sans-serif';
   overflow-x: hidden;
+  
   background-repeat: no-repeat;
   background-size: cover;
   }

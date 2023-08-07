@@ -5,7 +5,8 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: linear-gradient(to right, #e6e6e6, #f0f0f0, #ffffff,#ffffff7a,#c0c0c0, #d3d3d3, #edcfee);
+  /* background-image: linear-gradient(to right, #e6e6e6, #f0f0f0, #ffffff,#ffffff7a,#c0c0c0, #d3d3d3, #edcfee); */
+  background-image: url('https://thumbs.gfycat.com/DamagedUnfortunateAmericanbadger-max-1mb.gif');
   background-size: 300%;
   animation: spin 4s infinite linear;
   transform: rotate(1turn);
