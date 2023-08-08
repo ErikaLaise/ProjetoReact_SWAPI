@@ -46,6 +46,7 @@ function Home() {
             foto={imagesPlanets[index]}
             nomePlaneta={planet.name}
             clima={planet.climate}
+            terreno={planet.terrain}
             gravidade={planet.gravity}
             populacao={planet.population}
             diametro={planet.diameter}

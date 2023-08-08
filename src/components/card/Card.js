@@ -4,6 +4,7 @@ function Card({
   foto,
   nomePlaneta,
   clima,
+  terreno,
   gravidade,
   populacao,
   diametro,
@@ -26,6 +27,10 @@ function Card({
             {clima}
           </p>
           <p>
+            <b>Terreno:</b>
+            {terreno}
+          </p>
+          <p>
             <b>Gravidade:</b>
             {gravidade}
           </p>
@@ -40,7 +45,7 @@ function Card({
           <p>
             <b>Superfície Aquosa:</b>
             {superficieAquosa}
-          </p>
+          </p>        
         </div>
       </div>
     </div>
