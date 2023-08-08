@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'League Spartan', 'sans-serif';
-  background: rgb(31, 28, 28);
+  
 }
 
 body {
@@ -12,10 +12,11 @@ body {
   align-items: center;
   min-height: 100vh;
   text-align: center;
-  color: white;
+  color: whitesmoke;
   padding: 2rem;
   font-family: 'Heebo', 'sans-serif';
   overflow-x: hidden;
+  background: rgb(17, 15, 15);
   background-repeat: no-repeat;
   background-size: cover;
   }
