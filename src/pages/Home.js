@@ -48,6 +48,7 @@ function Home() {
             clima={planet.climate}
             terreno={planet.terrain}
             gravidade={planet.gravity}
+            periodoDeRotacao={planet.rotation_period}
             populacao={planet.population}
             diametro={planet.diameter}
             superficieAquosa={planet.surface_water} />

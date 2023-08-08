@@ -6,6 +6,7 @@ function Card({
   clima,
   terreno,
   gravidade,
+  periodoDeRotacao,
   populacao,
   diametro,
   superficieAquosa,
@@ -33,6 +34,10 @@ function Card({
           <p>
             <b>Gravidade:</b>
             {gravidade}
+          </p>
+          <p>
+            <b>Período de rotação:</b>
+            {periodoDeRotacao}
           </p>
           <p>
             <b>População:</b>
