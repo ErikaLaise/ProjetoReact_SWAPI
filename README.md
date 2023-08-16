@@ -21,7 +21,7 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE par
 
 ### Visite:
 
-projetoreact-swapi.vercel.app
+projetoreact-swapi.vercel.app](https://vercel.com/erikalaise/projetoreact-swapi
 
 Projeto realizado como parte do aprendizado do curso Desenvolvimento Web Full Stack da Campinho Digital.
 
