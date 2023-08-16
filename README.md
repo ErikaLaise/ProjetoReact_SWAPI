@@ -19,6 +19,10 @@ Este é um projeto desenvolvido em React que consome a API de planetas do projet
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.clear
 
 
+### Visite:
+
+projetoreact-swapi.vercel.app
+
 Projeto realizado como parte do aprendizado do curso Desenvolvimento Web Full Stack da Campinho Digital.
 
 
